@@ -69,6 +69,8 @@
   <label for="inputEmail" class="sr-only">Địa chỉ email</label>
   <input type="email" id="inputEmail" name="inputEmail" class="form-control" placeholder="email@domain.com" required>
 
+  <label for="inputBirthday" class="sr-only">Ngày sinh</label>
+  <input type="date" id="inputBirthday" name="inputBirthday" class="form-control" required>
 
   <label for="inputPassword" class="sr-only">Mật khẩu</label>
   <input type="password" id="inputPassword" name="inputPassword" class="form-control" placeholder="Nhập mật khẩu" required>
